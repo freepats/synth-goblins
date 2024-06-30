@@ -1,0 +1,100 @@
+//+ Name: Synth Goblins
+//+ Date: 2020-06-12
+//+ URL: http://freepats.localhost/Synthesizer/synth-effects.html#Goblins
+
+<global>
+ //+ Instrument: Synth Goblins
+ ampeg_release=4
+ loop_mode=loop_continuous
+
+<group>
+<region>
+ lokey=34 hikey=37
+ pitch_keycenter=36
+ loop_start=159472 loop_end=299471
+ sample=samples/C2.flac
+<region>
+ lokey=38 hikey=41
+ pitch_keycenter=40
+ loop_start=159496 loop_end=299495
+ sample=samples/E2.flac
+<region>
+ lokey=42 hikey=45
+ pitch_keycenter=44
+ loop_start=159448 loop_end=299447
+ sample=samples/G#2.flac
+<region>
+ lokey=46 hikey=49
+ pitch_keycenter=48
+ loop_start=159469 loop_end=299468
+ sample=samples/C3.flac
+<region>
+ lokey=50 hikey=53
+ pitch_keycenter=52
+ loop_start=159571 loop_end=299570
+ sample=samples/E3.flac
+<region>
+ lokey=54 hikey=57
+ pitch_keycenter=56
+ loop_start=159469 loop_end=299468
+ sample=samples/G#3.flac
+<region>
+ lokey=58 hikey=61
+ pitch_keycenter=60
+ loop_start=159434 loop_end=299433
+ sample=samples/C4.flac
+<region>
+ lokey=62 hikey=65
+ pitch_keycenter=64
+ loop_start=159530 loop_end=299529
+ sample=samples/E4.flac
+<region>
+ lokey=66 hikey=69
+ pitch_keycenter=68
+ loop_start=159410 loop_end=299409
+ sample=samples/G#4.flac
+<region>
+ lokey=70 hikey=73
+ pitch_keycenter=72
+ loop_start=159487 loop_end=299486
+ sample=samples/C5.flac
+<region>
+ lokey=74 hikey=77
+ pitch_keycenter=76
+ loop_start=159515 loop_end=299514
+ sample=samples/E5.flac
+<region>
+ lokey=78 hikey=81
+ pitch_keycenter=80
+ loop_start=159472 loop_end=299471
+ sample=samples/G#5.flac
+<region>
+ lokey=82 hikey=85
+ pitch_keycenter=84
+ loop_start=158501 loop_end=298500
+ sample=samples/C6.flac
+<region>
+ lokey=86 hikey=89
+ pitch_keycenter=88
+ loop_start=159494 loop_end=299493
+ sample=samples/E6.flac
+<region>
+ lokey=90 hikey=93
+ pitch_keycenter=92
+ loop_start=159483 loop_end=299482
+ sample=samples/G#6.flac
+<region>
+ lokey=94 hikey=97
+ pitch_keycenter=96
+ loop_start=159487 loop_end=299486
+ sample=samples/C7.flac
+<region>
+ lokey=98 hikey=101
+ pitch_keycenter=100
+ loop_start=159507 loop_end=299506
+ sample=samples/E7.flac
+<region>
+ lokey=102 hikey=106
+ pitch_keycenter=104
+ loop_start=159496 loop_end=299495
+ sample=samples/G#7.flac
